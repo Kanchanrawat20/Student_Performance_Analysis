@@ -47,4 +47,4 @@ Visualize relationships between features
 End-to-end data analysis process
 Preprocessing and feature engineering
 Model evaluation techniques
-Importance of EDA before model training
+Importance of EDA before model training.
